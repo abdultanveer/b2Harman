@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mytextstyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF9800</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="mytextstyle.big">
+        <item name="android:textSize">24sp</item>
+
+    </style>
+</resources>
+
+
+  <!--  android:textColor="#673AB7"
+    android:textSize="20sp"
+    android:textStyle="bold"-->
